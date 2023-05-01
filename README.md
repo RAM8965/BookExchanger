@@ -85,9 +85,21 @@ commit;
 ```
 Note:- Considering this as a Sample Project, we have not much considered of web security.
 #### Some Screenshots for the project:
+1.FRONT PAGE
+![PROJECT](https://user-images.githubusercontent.com/114331816/235481621-4773d092-cf46-4bc9-8196-cdb9d309d6f6.png)
 
-![PROJECT](https://user-images.githubusercontent.com/114331816/235480629-23c3ef5a-6b13-458c-a632-3aa33d3077f6.png)
-![proj!![project 2](https://user-images.githubusercontent.com/114331816/235480778-cc51344a-453e-41cb-b675-f878da82842d.png)
-[prject 5](https://user-images.githubusercontent.com/114331816/235480753-3b414f4b-3c57-42eb-bab2-f8c678918ac7.png)
-![project 1234](https://user-images.githubusercontent.com/114331816/235480668-73d859b6-4ea3-482f-a76d-a58770c797e4.png)
-![PROJE![project 3](https://user-images.githubusercontent.com/114331816/235480714-1263f410-ca31-4423-815c-74335c2ab200.png)
+2.LOGIN PAGE
+![project 2](https://user-images.githubusercontent.com/114331816/235481899-81c78295-a30b-434b-b1da-2bde5f021b10.png)
+
+3.USER REGISTRATION PAGE
+![project 3](https://user-images.githubusercontent.com/114331816/235482042-d535f7cd-99ee-45f1-ac97-8e3dca485ca6.png)
+
+4.AVAILABLE BOOKS
+![project 4](https://user-images.githubusercontent.com/114331816/235482283-4e1f8f30-0624-4823-b3b3-cb8bbb4acc00.png)
+
+5.CHECKOUT AND PAYMENT PAGE
+![prject 5](https://user-images.githubusercontent.com/114331816/235482541-3ee9844c-d315-48c4-ab56-f4fc7c1fb2c1.png)
+
+
+
+
