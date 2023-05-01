@@ -85,10 +85,9 @@ commit;
 ```
 Note:- Considering this as a Sample Project, we have not much considered of web security.
 #### Some Screenshots for the project:
+
 ![PROJECT](https://user-images.githubusercontent.com/114331816/235480629-23c3ef5a-6b13-458c-a632-3aa33d3077f6.png)
 ![proj!![project 2](https://user-images.githubusercontent.com/114331816/235480778-cc51344a-453e-41cb-b675-f878da82842d.png)
 [prject 5](https://user-images.githubusercontent.com/114331816/235480753-3b414f4b-3c57-42eb-bab2-f8c678918ac7.png)
-ect 3](https://user-images.githubusercontent.com/114331816/235480734-de5ebd0d-f487-4577-a316-9f4807cb9dc4.png)
 ![project 1234](https://user-images.githubusercontent.com/114331816/235480668-73d859b6-4ea3-482f-a76d-a58770c797e4.png)
 ![PROJE![project 3](https://user-images.githubusercontent.com/114331816/235480714-1263f410-ca31-4423-815c-74335c2ab200.png)
-CT 6](https://user-images.githubusercontent.com/114331816/235480693-01486567-3e90-4816-ab4b-bd42558f9b4a.png)
